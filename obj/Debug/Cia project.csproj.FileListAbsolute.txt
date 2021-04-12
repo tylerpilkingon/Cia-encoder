@@ -1,0 +1,10 @@
+C:\Users\Tyler\source\repos\Cia project\bin\Debug\Cia project.exe.config
+C:\Users\Tyler\source\repos\Cia project\bin\Debug\Cia project.exe
+C:\Users\Tyler\source\repos\Cia project\bin\Debug\Cia project.pdb
+C:\Users\Tyler\source\repos\Cia project\obj\Debug\Cia project.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\Cia project\obj\Debug\Cia_project.Form1.resources
+C:\Users\Tyler\source\repos\Cia project\obj\Debug\Cia_project.Properties.Resources.resources
+C:\Users\Tyler\source\repos\Cia project\obj\Debug\Cia project.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\Cia project\obj\Debug\Cia project.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\Cia project\obj\Debug\Cia project.exe
+C:\Users\Tyler\source\repos\Cia project\obj\Debug\Cia project.pdb
